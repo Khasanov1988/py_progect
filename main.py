@@ -1,3 +1,3 @@
-import summa from funcs
+import funcs
 
-answer = summa(2, 3)
+answer = funcs.summa(2, 3)
